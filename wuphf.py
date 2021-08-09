@@ -9,9 +9,9 @@ from instabot import Bot
 
 
 message_to_be_spread = ("in harmony")
-mailcontacts = ["shaikhahmedkhan@hotmail.com", "aishachishti@hotmail.com"]
-whatsappnumber = '+971554657145'
-instagram_postcaption = "epic moment"
+mailcontacts = ["MAIL_ID1", "MAIL_ID2"]
+whatsappnumber = '+971phoneno'
+instagram_postcaption = "yes"
 #SENDING EMAILS
 
 Email_address = os.environ.get("wuphfmail_address")
